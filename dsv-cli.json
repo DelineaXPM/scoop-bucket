@@ -1,19 +1,19 @@
 {
-    "version": "1.39.10",
+    "version": "1.39.11",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/DelineaXPM/dsv-cli/releases/download/v1.39.10/dsv-win-x86.zip",
+            "url": "https://github.com/DelineaXPM/dsv-cli/releases/download/v1.39.11/dsv-win-x86.zip",
             "bin": [
                 "dsv.exe"
             ],
-            "hash": "d5e39ff8fdfd644ecd7837329430fe403f4550e07a6dfd500db11cf5ef9555fc"
+            "hash": "50c729cc3322242d10474a797162fc65a7c56f50830e147104be3f56a7e86cb0"
         },
         "64bit": {
-            "url": "https://github.com/DelineaXPM/dsv-cli/releases/download/v1.39.10/dsv-win-x64.zip",
+            "url": "https://github.com/DelineaXPM/dsv-cli/releases/download/v1.39.11/dsv-win-x64.zip",
             "bin": [
                 "dsv.exe"
             ],
-            "hash": "43b29e3bf38b49445544fe2e3c5db4af173a00b37a5223f996f417331557015f"
+            "hash": "43ffaf6cd34cdd007c70fe7e45a6d1716161db4cabc5dde2228fdf4aee126769"
         }
     },
     "homepage": "https://github.com/DelineaXPM/dsv-cli",
